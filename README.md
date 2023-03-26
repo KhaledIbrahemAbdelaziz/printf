@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ALX PRINTF GROUP PROJECT
 Jseray and KhaledIbrahemAbdelaziz
 
@@ -82,3 +83,6 @@ Task:14 Handle the following custom conversion specifier:
     R: prints the rot13'ed string
 
 Task:15 All the above options work well together.
+=======
+
+>>>>>>> 7013324c64acc9c1f1307badeecb419edb92a273
